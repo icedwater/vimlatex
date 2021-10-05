@@ -1,0 +1,8 @@
+# vim swap files
+.*.sw?
+
+# pdflatex artefacts
+*.log
+*.aux
+*.toc
+*.pdf
