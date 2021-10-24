@@ -13,6 +13,6 @@ Basic example which will be fleshed out more as we go along.
 Includes a Makefile so I can use GNU Make on the command line.
 
 [nht]: https://t.me/nushackers
-[nlw]: https://youtu.be/XoXoXoX
+[nlw]: https://youtu.be/prNm1gaJtds
 [vlp]: https://www.topbug.net/blog/2013/06/13/live-preview-of-latex-in-vim/
 [vpl]: https://github.com/xuhdev/vim-latex-live-preview
