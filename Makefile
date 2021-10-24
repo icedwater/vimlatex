@@ -8,4 +8,5 @@ pdf: ${SRC_FILE}.tex
 
 clean:
 	rm ${SRC_FILE}.aux \
-	${SRC_FILE}.log
+	${SRC_FILE}.log \
+	${SRC_FILE}.pdf
